@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.notFound {
+  height: 50vh;
+  width: 30vw;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.light {
+  background-color: white;
+  color: black;
+  text-align: center;
+}

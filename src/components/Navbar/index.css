@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.mdCont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.webLogo {
+  height: 30px;
+  width: 30px;
+}
+
+.dark1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: white;
+  text-align: center;
+}
+
+.light1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: black;
+  text-align: center;
+}
